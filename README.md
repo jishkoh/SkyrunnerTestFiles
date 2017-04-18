@@ -1,3 +1,3 @@
 # SkyrunnerTestFiles
 
-ft
+FEL files and test programs

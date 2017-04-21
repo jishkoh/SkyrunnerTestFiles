@@ -1,3 +1,3 @@
-# SkyrunnerTestFiles
+# Skyrunner Files
 
-FEL files and test programs
+Fallon Middle School Engineering Lab Python Programs

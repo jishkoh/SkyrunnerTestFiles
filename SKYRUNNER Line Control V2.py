@@ -75,10 +75,10 @@ input("Press <Enter> to Continue.")
 ButtonPin = 4 #Different from Josh, Emergency Stop 
 ButtonPinState = 0
 
-PIN_1 = 18
-PIN_2 = 24
-PIN_3 = 17
-PIN_4 = 22
+PIN_1 = 24
+PIN_2 = 18
+PIN_3 = 22
+PIN_4 = 17
 
 BLINK_PIN_OUTPUT = 12
 
